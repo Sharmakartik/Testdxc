@@ -27,8 +27,8 @@ def fabresult(n){  // initialize
     }
    }
   // check the result or print the result
- // print(result)
-  //print('\n')
+  print(result)
+  print('\n')
   return result
 }
 
