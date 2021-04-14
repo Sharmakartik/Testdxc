@@ -9,4 +9,4 @@ test assessment
   - putting the assertion, for checking the functionality of the api.
 
 # Screeshot
-  Screenshot%20(1144).png
+  Screenshot (1144).png
