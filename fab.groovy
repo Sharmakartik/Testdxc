@@ -34,7 +34,7 @@ def fabresult(n){  // initialize
 
 // Can't add the test cases, but check's the functionaltiy of above api, using assertion
 def fabresult_2 = fabresult(2)
-def fabresult_8 = fabresult(8) // calling the function with 8 as an argument in fabresult() api to get first 8 element in fab. series
+def fabresult_8 = fabresult(8) // calling the function with 8 as an argument
 def fabresult_9 = fabresult(9)
 def fabresult_11 = fabresult(11)
 def fabresult_12 = fabresult(12)
